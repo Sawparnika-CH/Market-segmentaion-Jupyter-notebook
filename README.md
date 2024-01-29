@@ -1,2 +1,2 @@
 # Market-segmentaion-Jupyter-notebook
-Market segmentation is performed with McDonald's dataset .
+Market segmentation is performed using McDonald's dataset .
